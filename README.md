@@ -1,5 +1,3 @@
-I'll create a README for your SILENT SQUEEZE program. Since you're only distributing the executable file, I'll focus on explaining the functionality and how to use it without referencing the source code.
-
 # SILENT SQUEEZE
 
 ## Overview
